@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "javalittleb-saythemoney-32"
-          entrypoint: "main.ts"
+          entrypoint: ""
           root: "build"
           
           
